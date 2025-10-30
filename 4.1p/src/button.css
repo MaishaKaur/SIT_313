@@ -1,0 +1,20 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.button {
+    left: 70px;
+    bottom: 60px;
+    text-decoration: none;
+    border: none;
+    border-radius: 20px;
+    width: 170px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(56, 132, 144);
+    color: rgb(196, 182, 182);
+    font-weight: bold;
+    height: 35px;
+}
