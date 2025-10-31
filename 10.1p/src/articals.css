@@ -1,0 +1,8 @@
+.card .image img {
+    height: 180px;
+    /* or any fixed height you like */
+    width: 100%;
+    object-fit: cover;
+    /* crop instead of stretch */
+    display: block;
+}
